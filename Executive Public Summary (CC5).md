@@ -1,5 +1,5 @@
-## <p align=center> Evolutionary Impacts of the Paleocene-Eocene Thermal Maximum Event
-### <p align=center> Executive Public Summary
+# <p align=center> Evolutionary Impacts of the Paleocene-Eocene Thermal Maximum Event
+## <p align=center> Executive Public Summary
 **<p align=center> Group 5: Jonah Walker, Keira Hum, Maya Das, Sayna Salehzadeh**
 **<p align=center> November 12th, 2023**
 **<p align=center> ISCI 3A12**
@@ -7,19 +7,19 @@
 Dearest loved ones, we have gathered here today to depart with the Earth as we know it. We must be prepared for climate change to drive many of our beloved species to extinction, as it did during the Paleocene-Eocene Thermal Maximum (PETM) event.
 The 2023 IPCC AR6 report outlines numerous long-term and potentially irreversible effects of climate change. The best way to make predictions on how these effects will alter evolution is by studying a historical analog. The PETM has various key similarities to modern climate change, and its subsequent effects on evolution are well documented in the fossil record.
 
-#### **What is the PETM**
+### **What is the PETM**
 
 The PETM occurred 55 million years ago and lasted approximately 170,000 years (Keller et al., 2018). During this time, global temperatures rose roughly by 5-7°C, with atmospheric carbon dioxide (CO<sub>2</sub>) and methane levels ranging from 650-3500 ppm (Meissner et al., 2014). With an all-time high CO<sub>2</sub> record of 424 ppm in May 2023, compared to the current rate of anthropogenic warming, it may be predicted that atmospheric conditions displayed here will resemble those from the PETM in the near future (Rebecca Lindsey, 2023).
 
-#### **Effects on Marine Biota**
+### **Effects on Marine Biota**
 
 The extreme PETM environmental stressors caused great evolutionary effects on marine biota, specifically deep-sea foraminifers. Extreme or extinction events can cause major evolutionary change due to strong selection pressures, causing diversity renewal that alters communities and causes new evolutionary directions to occur (Grant et al., 2017). In particular, _Acarinina_ species greatly evolved from high temperatures causing intraspecific variation (Ouda, 2018). Additionally, ostracodes are crustacea that were dominant during the PETM subsequently faced dwarfing due to reduced food consumption rates and life expectancy (Yamaguchi, Norris and Bornemann, 2012). This aligns with Bergmann’s rule, which is the relationship where smaller organism sizes are associated with warmer climates (Shelomi and Zeuss, 2017).
 
-#### **Effects on Terrestrial Biota**
+### **Effects on Terrestrial Biota**
 
 Dwarfing due to Bergamnns’s Rule was also observed in terrestrial biota, as the fossil record shows numerous mammal and insect species significantly decreasing in size at the onset of the PETM, then regaining that size in the cooling stage after the PETM (Smith et al., 2009; Secord et al., 2012). The emergence of new mammals is also observed in this time, with orders such as _Artiodactyla_ (e.g. deer), _Perissodactyla_ (e.g. horses), and _Primates_ appearing suddenly in the fossil record (Gingerich, 2006). Conversely, mammal species that emerged from the early ‘Age of Mammals’ went extinct, being replaced by new orders.
 
-#### **Modern Implications**
+### **Modern Implications**
 
 The three main effects of climate change on evolution in the PETM, dwarfing, extinction, and rapid diversification, are all likely to occur in the future according to IPCC predictions. The three primary mechanisms of evolution are natural selection, genetic drift, and gene flow. The increased heat and greenhouse gases will change habitats and impact ecological niches, fundamentally changing criteria for natural selection in ways unique to the ecosystem. Gene flow will occur as intense heat renders huge areas of the planet uninhabitable (**Figure 1**) and animals are forced to migrate. Extreme weather events have the potential to wipe out substantial parts of an ecosystem in an instant, increasing the frequency of genetic drift events (IPCC, 2023). 
 
@@ -46,7 +46,7 @@ With rising temperatures, it's clear that we are approaching another major event
 
 
 
-#### **References**
+### **References**
 
 Gingerich, P.D., 2006. Environment and evolution through the Paleocene–Eocene thermal maximum. Trends in Ecology & Evolution, 21(5), pp.246–253. https://doi.org/10.1016/j.tree.2006.03.006.
 
