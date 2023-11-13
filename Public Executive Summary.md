@@ -82,7 +82,10 @@ With rising temperatures, it's clear that we are approaching another major event
 
 
 
-References
+**References**
+
 IPCC, 2023. Climate Change 2022 – Impacts, Adaptation and Vulnerability: Working Group II Contribution to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. 1st ed. [online] Cambridge University Press. https://doi.org/10.1017/9781009325844.
+
 Meissner, K., Bralower, T., Naughten, K., Dunkley Jones, T., Sijp, W. and Ward, M., 2014. The Paleocene-Eocene Thermal Maximum: How much carbon is enough? Paleoceanography, 29. https://doi.org/10.1002/2014PA002650.
+
 Rebecca Lindsey, 2023. Climate Change: Atmospheric Carbon Dioxide | NOAA Climate.gov. [online] Available at: <http://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide> [Accessed 12 November 2023].
