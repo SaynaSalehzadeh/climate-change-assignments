@@ -1,4 +1,5 @@
-<p align="center"> # Evolutionary Impacts of the Paleocene-Eocene Thermal Maximum Event
+<p align="center"> 
+  # Evolutionary Impacts of the Paleocene-Eocene Thermal Maximum Event
 
 <p align="center"> ## Public Executive Summary
 
