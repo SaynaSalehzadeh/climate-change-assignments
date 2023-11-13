@@ -1,5 +1,5 @@
-## Evolutionary Impacts of the Paleocene-Eocene Thermal Maximum Event
-## Public Executive Summary
+## <p align=center> Evolutionary Impacts of the Paleocene-Eocene Thermal Maximum Event
+## <p align=center> Public Executive Summary
 **<p align=center> Group 5: Jonah Walker, Keira Hum, Maya Das, Sayna Salehzadeh**
 **<p align=center> November 12th, 2023**
 **<p align=center> ISCI 3A12**
