@@ -10,7 +10,7 @@ The 2023 IPCC AR6 report outlines numerous long-term and potentially irreversibl
 
 **What is the PETM**
 
-The PETM occurred 55 million years ago and lasted approximately 170,000 years. During this time, global temperatures rose roughly by 5-7°C, with atmospheric carbon dioxide (CO2) and methane levels ranging from 650-3500 ppm (Meissner et al., 2014). With an all-time high CO2 record of 424 ppm in May 2023, compared to the current rate of anthropogenic warming, it may be predicted that atmospheric conditions displayed here will resemble those from the PETM in the near future (Rebecca Lindsey, 2023). 
+The PETM occurred 55 million years ago and lasted approximately 170,000 years. During this time, global temperatures rose roughly by 5-7°C, with atmospheric carbon dioxide (CO2) $$CO^{2}$$ and methane levels ranging from 650-3500 ppm (Meissner et al., 2014). With an all-time high CO2 record of 424 ppm in May 2023, compared to the current rate of anthropogenic warming, it may be predicted that atmospheric conditions displayed here will resemble those from the PETM in the near future (Rebecca Lindsey, 2023). 
 
 **Effects on Marine Biota**
 
