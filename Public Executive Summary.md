@@ -1,14 +1,14 @@
-# Public Executive Summary
+<p align="center"> # Evolutionary Impacts of the Paleocene-Eocene Thermal Maximum Event
 
-## Evolutionary Impacts of the Paleocene-Eocene Thermal Maximum Event
+<p align="center"> ## Public Executive Summary
 
-### Group 5
+<p align="center"> ### Group 5
 
-### Maya Das, Keira Hum, Jonah Walker, Sayna Salehzadeh
+<p align="center"> ### Maya Das, Keira Hum, Jonah Walker, Sayna Salehzadeh
 
-#### November 12th, 2023
+<p align="center"> #### November 12th, 2023
 
-#### ISCI 3A12
+<p align="center"> #### ISCI 3A12
 
 
 Dearest loved ones, we have gathered here today to depart with the Earth as we know it. We must be prepared for climate change to drive many of our beloved species to extinction, as it did during the Paleocene-Eocene Thermal Maximum (PETM) event.
