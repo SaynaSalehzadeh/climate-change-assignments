@@ -1,4 +1,4 @@
-## <p align=center> Evolutionary Impacts of the Paleocene-Eocene Thermal Maximum Event
+### <p align=center> Evolutionary Impacts of the Paleocene-Eocene Thermal Maximum Event
 ## <p align=center> Public Executive Summary
 **<p align=center> Group 5: Jonah Walker, Keira Hum, Maya Das, Sayna Salehzadeh**
 **<p align=center> November 12th, 2023**
@@ -46,7 +46,7 @@ With rising temperatures, it's clear that we are approaching another major event
 
 
 
-**References**
+## **References**
 
 Gingerich, P.D., 2006. Environment and evolution through the Paleocene–Eocene thermal maximum. Trends in Ecology & Evolution, 21(5), pp.246–253. https://doi.org/10.1016/j.tree.2006.03.006.
 
@@ -61,6 +61,7 @@ Meissner, K., Bralower, T., Naughten, K., Dunkley Jones, T., Sijp, W. and Ward, 
 Paleoceanography, 29. https://doi.org/10.1002/2014PA002650.
 
 Ouda, K.A.-K., 2018. Morphologic change and evolution of Acarinina sibaiyaensis and its descendants during the earliest Eocene CIE/PETM interval in southern Egypt. Journal of African Earth Sciences, 147, pp.78–125. https://doi.org/10.1016/j.jafrearsci.2018.06.015.
+
 Rebecca Lindsey, 2023. Climate Change: Atmospheric Carbon Dioxide | NOAA Climate.gov. [online] Available at: <http://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide> [Accessed 12 November 2023].
 
 Secord, R., Bloch, J.I., Chester, S.G.B., Boyer, D.M., Wood, A.R., Wing, S.L., Kraus, M.J., McInerney, F.A. and Krigbaum, J., 2012. Evolution of the Earliest Horses Driven by Climate Change in the Paleocene-Eocene Thermal Maximum. Science, 335(6071), pp.959–962. https://doi.org/10.1126/science.1213859.
