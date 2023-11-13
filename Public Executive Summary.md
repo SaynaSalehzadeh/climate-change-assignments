@@ -1,9 +1,9 @@
-# <p align=Evolutionary Impacts of the Paleocene-Eocene Thermal Maximum Event>
-## <p align="center"> Public Executive Summary
+# <p align=center> Evolutionary Impacts of the Paleocene-Eocene Thermal Maximum Event
+## <p align=center> Public Executive Summary
 
-### <p align="center"> Group 5: Jonah Walker, Keira Hum, Maya Das, Sayna Salehzadeh
-#### <p align="center"> November 12th, 2023
-#### <p align="center"> ISCI 3A12
+### <p align=center> Group 5: Jonah Walker, Keira Hum, Maya Das, Sayna Salehzadeh
+#### <p align=center> November 12th, 2023
+#### <p align=center> ISCI 3A12
 
 Dearest loved ones, we have gathered here today to depart with the Earth as we know it. We must be prepared for climate change to drive many of our beloved species to extinction, as it did during the Paleocene-Eocene Thermal Maximum (PETM) event.
 The 2023 IPCC AR6 report outlines numerous long-term and potentially irreversible effects of climate change. The best way to make predictions on how these effects will alter evolution is by studying a historical analog. The PETM has various key similarities to modern climate change, and its subsequent effects on evolution are well documented in the fossil record.
