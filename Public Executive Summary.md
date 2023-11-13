@@ -60,7 +60,7 @@ The three main effects of climate change on evolution in the PETM, dwarfing, ext
 
 
   
-
+<img src="Public Executive Summary Figure 1.jpg" width="700" style="border: 1px solid darkgrey">
 _Figure 1: Map of the percentage of animal species and seagrasses exposed to dangerous temperatures at four different magnitudes of warming. In the worst-case (3-4°C) heating scenarios, immense areas of the Earth expose 100% of species inside it to dangerous temperatures, causing migrations and extinctions (Adapted from IPCC, 2023)._
 
 With rising temperatures, it's clear that we are approaching another major event similar to the PETM. Given this, are you willing to accommodate to our new home? 
