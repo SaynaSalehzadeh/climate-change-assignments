@@ -58,9 +58,8 @@ Dwarfing due to Bergamnns’s Rule was also observed in terrestrial biota, as th
 
 The three main effects of climate change on evolution in the PETM, dwarfing, extinction, and rapid diversification, are all likely to occur in the future according to IPCC predictions. The three primary mechanisms of evolution are natural selection, genetic drift, and gene flow. The increased heat and greenhouse gases will change habitats and impact ecological niches, fundamentally changing criteria for natural selection in ways unique to the ecosystem. Gene flow will occur as intense heat renders huge areas of the planet uninhabitable and animals are forced to migrate. Extreme weather events have the potential to wipe out substantial parts of an ecosystem in an instant, increasing the frequency of genetic drift events. 
 
-
-  
 <img src="Public Executive Summary Figure 1.jpg" width="700" style="border: 1px solid darkgrey">
+
 _Figure 1: Map of the percentage of animal species and seagrasses exposed to dangerous temperatures at four different magnitudes of warming. In the worst-case (3-4°C) heating scenarios, immense areas of the Earth expose 100% of species inside it to dangerous temperatures, causing migrations and extinctions (Adapted from IPCC, 2023)._
 
 With rising temperatures, it's clear that we are approaching another major event similar to the PETM. Given this, are you willing to accommodate to our new home? 
